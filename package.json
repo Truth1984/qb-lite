@@ -1,6 +1,6 @@
 {
   "name": "qb-lite",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "sql query builder",
   "main": "index.js",
   "scripts": {
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Truth1984/qb-lite/issues"
   },
-  "homepage": "https://github.com/Truth1984/qb-lite#readme"
+  "homepage": "https://github.com/Truth1984/qb-lite#readme",
+  "dependencies": {
+    "awadau": "^1.1.3"
+  }
 }
